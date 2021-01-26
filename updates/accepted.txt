@@ -1,0 +1,11 @@
+From: From <{sender}>
+To: To <{receiver}>
+Subject: Google STEP Internship
+
+Dear {name},
+
+We are pleased to offer you a position in our 12-week internship program! We have found your passion for computer science inspiring, and we would like you to form part of our team. We will be in contact shortly with more information.
+
+Please let us know if you have any questions,
+
+Google Staffing
